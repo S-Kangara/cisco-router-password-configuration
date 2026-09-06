@@ -41,7 +41,7 @@ R1(config)#no service password-encryption
 ```
 
 ## 📂 Files in this Repository
-- `lab.pkt` — The Cisco Packet Tracer file for this lab
+- `001 - Basic Router Security Configuration 1.pkt` — The Cisco Packet Tracer file for this lab
 - `README.md` — This documentation file
 
 ## 🛠️ Tools Used
